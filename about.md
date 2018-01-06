@@ -157,7 +157,11 @@ September 1996. [[PDF](papers/1997jsac.pdf])]
   M. Radenkovic & A. Sathiaseelan, _Wild interdisciplinarity:
   ethnography and computer science_, Journal: International Journal of
   Social Research Methodology, April 2016
-   [[DOI](https://doi.org/10.1080/13645579.2016.1152022)]. 
+  [[DOI](https://doi.org/10.1080/13645579.2016.1152022)].
+* Perera, C., Wakenshaw, S., Baarslag, T., Haddadi, H., Bandara, A.,
+Mortier, R., Crabtree, A., Ng, I., McAuley, D., Crowcroft, J.,
+_Valorising the IoT Databox: creating value for everyone_,
+Trans. Emerging Tel. Tech. 28(1) 2017. [[DOI](http://dx.doi.org/10.1002/ett.3125)]
 * L. Urquhart, N. Sailaja, D. McAuley, _Realising the right to data
   portability for the domestic Internet of things_, Personal and
   Ubiquitous Computing, August 2017
@@ -174,7 +178,7 @@ industrial things_, Computer Law and Security Review . ISSN 0267-3649
   International Workshop on Protocols for high speed networks,
   May 1992. Stockholm. 
 * David J. Greaves, Derek McAuley, and Leslie J. French, _Protocol and
-  interface for ATM LAN_s, in Proceedings, 5th IEEE Workshop on
+  interface for ATM LANs_, in Proceedings, 5th IEEE Workshop on
   Metropolitan Area Networks, Taormina, Italy (May 1992). 
 * D. R. McAuley, _Operating system support for the Desk Area Network_,
   in Proceedings of the 4th International Workshop on Network and
@@ -298,7 +302,7 @@ industrial things_, Computer Law and Security Review . ISSN 0267-3649
 * L. Carletti, D. Price, R. Sinker, G. Giannachi, D. McAuley,
   J. Stack, K. Beaver, J. Mundy, _Art mapping in Paris_, CHI'13
   Extended  Abstracts,  Paris 2013.
-  [[LINK](http://dl.acm.org/citation.cfm?id=2479602)] 
+  [[Link](http://dl.acm.org/citation.cfm?id=2479602)] 
 * L. Edwards, D. McAuley, _What’s in a name? Real name policies and
   social networks_, Workshop on Internet Science and Web Science
   Synergies, Paris, May 2013. [[PDF](/papers/2013_NamesHavePower paris
@@ -378,6 +382,12 @@ ACM CHI 2015.
   Fish in a Big Pond: An Architectural Approach to Users Privacy,
   Rights and Security in the Age of Big Data_,  IS Design and Business
   Process Management, ICIS 2016.
+* Koene, A., Vallejos, EP., Webb, H., Patel, M.,Ceppi, S., Jirotka,
+  M., McAuley, B., _Editorial responsibilities arising from
+  personalization algorithms_. CEPE/ETHICOMP 2017.
+  
+
+
 * Angelopoulos, S., McAuley, D., Merali, Y., Mortier, R., Price, D.,
   _Managing privacy, rights, and security in a digital economy_, Big
   Data and Managing in a Digital Economy, AOM Conference 2018 (To Appear).
@@ -470,4 +480,5 @@ and [transcript](http://data.parliament.uk/writtenevidence/committeeevidence.svc
      Stack, J., Locatelli, C.,Carletti, L., Price, D., McAuley, D., Coughlan, T.,
      Benford, S., _ArtMaps: A Technology
      for Looking at Tate’s Collection_, Leonardo, MIT Press, 2015.
+
 
