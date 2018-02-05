@@ -377,17 +377,14 @@ ACM CHI 2015.
   Society, 45, 3, pp167-171, 2016 
 * L. Edwards, D. McAuley, L. Diver, <i>From Privacy Impact Assessment
   to Social Impact Assessment</i>, IEEE Security and Privacy
-  Workshop, 2016. [[DOI](https://doi.org/10.1109/SPW.2016.19)] 
+  Workshop, 2016 [[DOI](https://doi.org/10.1109/SPW.2016.19)] 
 * S. Angelopoulos, D. McAuley, Y. Menali, R. Mortier, D. Price, _Small
   Fish in a Big Pond: An Architectural Approach to Users Privacy,
   Rights and Security in the Age of Big Data_,  IS Design and Business
-  Process Management, ICIS 2016.
+  Process Management, ICIS 2016
 * Koene, A., Vallejos, EP., Webb, H., Patel, M.,Ceppi, S., Jirotka,
   M., McAuley, B., _Editorial responsibilities arising from
-  personalization algorithms_. CEPE/ETHICOMP 2017.
-  
-
-
+  personalization algorithms_. CEPE/ETHICOMP 2017
 * Angelopoulos, S., McAuley, D., Merali, Y., Mortier, R., Price, D.,
   _Managing privacy, rights, and security in a digital economy_, Big
   Data and Managing in a Digital Economy, AOM Conference 2018 (To Appear).
@@ -418,7 +415,7 @@ and [transcript](http://data.parliament.uk/writtenevidence/committeeevidence.svc
 * _IoT_, talk at EPSRC/FCO funded UK / Japan IoT workshop
 [[Slides](/papers/2-170906Japan.pdf)]
 * _Data, what data, why does it matter and the potential for a
-  ‘Databox’ ....._, NIHR Mindtech 201 National Symposium [[Slides](/papers/20171204mindtech.pdf)]
+  ‘Databox’ ....._, NIHR Mindtech 2017 National Symposium [[Slides](/papers/20171204mindtech.pdf)]
 
 #### Other
 
