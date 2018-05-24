@@ -19,23 +19,23 @@ interdisciplinary research institute funded through the
 
 ### Research
 
-See [this blog(!)](http://drdrmc.blogspot.com/) and the
+See [this blog(!)](http://drdrmc.github.io/) and the
 [Horizon website](http://www.horizon.ac.uk/); scroll down for
 publications;
-[UK research grants here](http://gtr.rcuk.ac.uk/person/32EADEB5-487B-4058-9ABB-C16C18E9114F)
-and various others outputs on [Gateway to Research](http://gtr.rcuk.ac.uk/).
+[UK research grants are here](hhttp://gtr.ukri.org/person/32EADEB5-487B-4058-9ABB-C16C18E9114F)
+and various other outputs can be found on both [Horizon website](http://www.horizon.ac.uk/) and the [Gateway to Research](http://gtr.ukri.org).
 
 ### Contact:
 
-Horizon Digital Economy Research 
-Triumph Road 
-Nottingham 
-NG7 2TU 
-United Kingdom 
+Horizon Digital Economy Research <br />
+Triumph Road <br />
+Nottingham <br />
+NG7 2TU <br />
+United Kingdom <br />
 
-tweets: @drdrmc 
-email: derek.mcauley (at) nottingham.ac.uk 
-tel: +44 115 846 8381
+tweet: @drdrmc <br />
+email: derek.mcauley (at) nottingham.ac.uk <br />
+phone: +44 115 846 8381 <br />
 
 ### More Details
 
@@ -52,7 +52,7 @@ this sojourn the Cambridge lablet was shut. Before joining Nottingham
 in 2009 I enjoyed the cut and thrust of two startups, XenSource (now
 Citrix) and [Netronome](http://www.netronome.com/). During my time at
 Nottingham I have also spent a fun year as Chief Innovation
-Officer (in residence) at the [Digital Catapult](http://www.digitalcatapultcentre.org.uk/) during
+Officer (in residence) at the [Digital Catapult](https://www.digicatapult.org.uk/) during
 its startup phase in 2013/2014 and more recently spent a short
 sabbatical helping colleagues set up Unikernel Systems (since acquired
 by Docker). 
@@ -169,6 +169,7 @@ Trans. Emerging Tel. Tech. 28(1) 2017. [[DOI](http://dx.doi.org/10.1002/ett.3125
 * Urquhart, L. and McAuley, D., _Avoiding the internet of insecure
 industrial things_, Computer Law and Security Review . ISSN 0267-3649
 [[Link](http://eprints.nottingham.ac.uk/48592/)] 
+* A Crabtree, T Lodge, J Colley, C Greenhalgh, K Glover, H Haddadi, Y Amar, R Mortier, Q Li, J Moore, L Wang, P Yadav, J Zhao, A Brown, L Urquhart, D McAuley, _Building accountability into the Internet of Things: the IoT Databox model_, Journal of Reliable Intelligent Environments 4 (1), 39-55 ][DOI](https://doi.org/10.1007/s40860-018-0054-5)]
 
 #### Conference/Workshop 
 
@@ -387,7 +388,7 @@ ACM CHI 2015.
   personalization algorithms_. CEPE/ETHICOMP 2017
 * Angelopoulos, S., McAuley, D., Merali, Y., Mortier, R., Price, D.,
   _Managing privacy, rights, and security in a digital economy_, Big
-  Data and Managing in a Digital Economy, AOM Conference 2018 (To Appear).
+  Data and Managing in a Digital Economy, AOM Conference 2018.
 
 #### Talks etc.
 
@@ -477,5 +478,5 @@ and [transcript](http://data.parliament.uk/writtenevidence/committeeevidence.svc
      Stack, J., Locatelli, C.,Carletti, L., Price, D., McAuley, D., Coughlan, T.,
      Benford, S., _ArtMaps: A Technology
      for Looking at Tate’s Collection_, Leonardo, MIT Press, 2015.
-
+* R Mortier, H Haddadi, T Henderson, D McAuley, Jon Crowcroft, A Crabtree _Human-data interaction_, Chap. 41 The Encyclopaedia of Human-Computer Interaction, 2nd Ed., Interaction Design Foundation
 

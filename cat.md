@@ -1,12 +1,11 @@
 ---
 layout: page
 title: 
-permalink: /index 
+permalink: /cat 
 ---
-<ul>
+## All blog posts
+<p>
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+      {{post.date | date: "%Y-%m-%d"}} <a href="{{ post.url }}">{{ post.title }}</a><br />
   {% endfor %}
-</ul>
+</p>

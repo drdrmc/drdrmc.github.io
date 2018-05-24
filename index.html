@@ -9,10 +9,21 @@ layout: default
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
-        {{ post.excerpt }}
-      </div>
+        {% if post.content contains site.excerpt_separator %}
+	{{ post.excerpt }}
+        <a href="{{ site.baseurl }}{{ post.url }}"
+	class="read-more">Read More</a><span class="date">
+	   from {{ post.date | date: "%B %e, %Y" }}
+	 </span>
+	{% else %}
+	{{ post.content }}
+	 <div class="date">
+	   Written on {{ post.date | date: "%B %e, %Y" }}
+	 </div>
+	{% endif %}
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      </div>
+      
     </article>
   {% endfor %}
 </div>
