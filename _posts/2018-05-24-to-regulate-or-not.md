@@ -1,3 +1,12 @@
+---
+layout: post
+title: To Regulate or not
+date: '2018-05-24T14:13:00.000Z'
+author: Mac
+tags: 
+modified_time: '2018-05-24T14:13:45.140Z'
+---
+
 Response to Call for Evidence for House of Lords Select Committee on Communications inquiry into "The Internet: To Regulate or Not To Regulate?"
 <br /><br />
 Written evidence submitted by Prof. Derek McAuley, Dr. Ansgar Koene, Dr. Lachlan Urquhart of the Horizon Digital Economy Research Institute, University of Nottingham.
