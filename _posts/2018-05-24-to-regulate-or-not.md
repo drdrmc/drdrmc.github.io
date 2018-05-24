@@ -5,6 +5,7 @@ date: '2018-05-24T14:13:00.000Z'
 author: Mac
 tags: 
 modified_time: '2018-05-24T14:13:45.140Z'
+thumbnail: https://i.ytimg.com/vi/puQvpyf0W-M/default.jpg 
 ---
 
 Response to Call for Evidence for House of Lords Select Committee on Communications inquiry into "The Internet: To Regulate or Not To Regulate?"
