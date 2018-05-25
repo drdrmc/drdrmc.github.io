@@ -3,8 +3,7 @@ layout: page
 title: 
 permalink: /students
 ---
-## Projects
-### Databox
+### Databox 
 Each of these projects needs a discusison as there are quite a few options to each...
 <div style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; text-align:center;"><a href="https://www.youtube.com/watch?v=NBxMk4LMGbk" target="_blank"><img alt="What is Databox Video" src="/images/whatisdatabox.jpg">
 <br />
