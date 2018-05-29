@@ -74,6 +74,15 @@ what GOOG and MSFT have found out about me! So:
 * [What Google Scholar has found](http://scholar.google.com/citations?user=K2UHT3AAAAA).
 * [What Microsoft Academic says](http://academic.research.microsoft.com/Author/36385).
 
+#### Books
+
+* Perrons, R. K., & McAuley, D. (2018). _The Case for "n<<all": 
+Why the Big Data Revolution Will Probably Happen Differently 
+in the Mining Sector_. In M. J. Clifford, R. K. Perrons, 
+S. H. Ali, & T. A. Grice (Eds.), Extracting Innovations: 
+Mining, Energy, and Technological Change in the Digital 
+Age (pp. 127-136). Boca Raton, Florida: CRC Press.
+
 #### Journals
 
 * I.M. Leslie and D.R. McAuley. _Fairisle: An ATM Network for the
