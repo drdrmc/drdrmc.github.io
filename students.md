@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Projects
 permalink: /students
 ---
 ### Back to the future 1. - Using email as social media
