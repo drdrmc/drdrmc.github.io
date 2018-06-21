@@ -1,1 +1,56 @@
-Verifying myself: I am drdrmc on Keybase.io. 7p6-lRa54XR8HcilLxXNr4IjpvKhmSvVzYt7 / https://keybase.io/drdrmc/sigs/7p6-lRa54XR8HcilLxXNr4IjpvKhmSvVzYt7
+==================================================================
+https://keybase.io/drdrmc
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://drdrmc.github.io
+  * I am drdrmc (https://keybase.io/drdrmc) on keybase.
+  * I have a public key ASD9CwL4vJ6N14-oY8BrMygR2pcaBSVWnNOrcqs1HpKq9Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fd0b02f8bc9e8dd78fa863c06b332811da971a0525569cd3ab72ab351e92aaf50a",
+      "host": "keybase.io",
+      "kid": "0120fd0b02f8bc9e8dd78fa863c06b332811da971a0525569cd3ab72ab351e92aaf50a",
+      "uid": "af448be8327af6cce1ae4e86a1e83019",
+      "username": "drdrmc"
+    },
+    "merkle_root": {
+      "ctime": 1529594159,
+      "hash": "dbaac56575e6293548479a30bcf8758a04fbdcf58e9775ebdb78052f7e3f11d65b73248b4f8ab7280394a5370f8b711bfb36867930e7934df72210b60ed6b2c5",
+      "hash_meta": "650698d33205216df708aa94efa62321a847609733487342270afd3103e45000",
+      "seqno": 3120277
+    },
+    "service": {
+      "entropy": "XEHzDQD30Zl4cbupmIjcSBbj",
+      "hostname": "drdrmc.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.1.1"
+  },
+  "ctime": 1529594180,
+  "expire_in": 504576000,
+  "prev": "1e3c951014f7b75b5bc7b7a593153260de64e57fdc40ce5d22a1187120f39357",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg/QsC+LyejdePqGPAazMoEdqXGgUlVpzTq3KrNR6SqvUKp3BheWxvYWTESpcCCsQgHjyVEBT3t1tbx7elkxUyYN5k5X/cQM5dIqEYcSDzk1fEIP8pmm7QXf3FYg6SmLeuN43DNLladppZ977j5rzgkK5GAgHCo3NpZ8RAdF313WDAjV/z/YSurzSDkcwYNvIUQ+flRNMPtPypda0R/ocyONGZmKr0z9DvTLqEOAPAIaFIuYOY1AOEjUb7BahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJo2/wSjYh6sg7iIQTjuRGJuoYXI870KRNOOPbeh/yIyo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/drdrmc
+
+==================================================================
