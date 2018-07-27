@@ -22,7 +22,7 @@ There are many project possabilities related to this, and I would welcome
 students suggesting their own projects. Here are some
 of my thoughts:
 
-- PrivAd "alike" - [PrivAd](http://mpi-sws.org/tr/2009-004.pdf) was an attempt toprovide privacy preserving tailored advertising; Databoc provides a natural platform to realise this to enable directed marketting and advertising without tracking.
+- PrivAd "alike" - [PrivAd](http://mpi-sws.org/tr/2009-004.pdf) was an attempt to provide privacy preserving tailored advertising; Databox provides a natural platform to realise this to enable directed marketting and advertising without tracking.
 - SOCKS or transparent webproxy and mobile app characterisation - configure a personal server/router to capture all URLs emitted by a mobile phone / tablet device and characterise the behaviours of apps.
 - Build and evaluate an interesting application for Databox, using the Databox SDK
 
