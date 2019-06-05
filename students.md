@@ -9,7 +9,7 @@ The Internet was built on federated services and we still all rely on email as t
 
 ### Back to the future 1a. - Can we fix the email reading experience
 
-While the first project sees a more structural fix to the way in which email is used, this project woudl be to leave the email the way it is and develop a set of text processing tools that woudl allow email threads simply to be presented as conversations, eliding all the indented repeated nonsense, legal disclaimers, email headers and other fluff that generally makes reading it more tedious than it needs to be. This project could focus on really doing a knock out job on the text processing or include more UI expereince around the overall interface. Personally, I don't get why any of the major companies have not done this! 
+While the first project sees a more structural fix to the way in which email is used, this project would be to leave the email the way it is and develop a set of text processing tools that would allow email threads simply to be presented as conversations, eliding all the indented repeated nonsense, legal disclaimers, email headers and other fluff that generally makes reading it more tedious than it needs to be. This project could focus on really doing a knock out job on the text processing or include more UI experience around the overall interface. Personally, I don't get why any of the major companies have not done this yet! 
 
 ### Back to the future 2. - Personalised RSS reader mobile app
 
