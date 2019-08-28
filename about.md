@@ -398,6 +398,13 @@ ACM CHI 2015.
 * Angelopoulos, S., McAuley, D., Merali, Y., Mortier, R., Price, D.,
   _Managing privacy, rights, and security in a digital economy_, Big
   Data and Managing in a Digital Economy, AOM Conference 2018.
+* Haralabopoulos, G., Wagner, C., McAuley, C., Simperl., 
+_A multivalued emotion lexicon created and evaluated by the crowd_,
+2018 Fifth International Conference on Social Networks Analysis, 
+Management and Security (SNAMS) [[pdf](http://eprints.nottingham.ac.uk/56075/1/A_multi_valued_emotion_lexicon_created_and_evaluated_by_the_crowd.pdf)]
+* Haralabopoulos, G., Wagner, C., McAuley, D., Anagnostopoulos, I., 
+_Paid Crowdsourcing, Low Income Contributors, and Subjectivity_
+IFIP International Conference on Artificial Intelligence Applications and Innovations, 2019.
 
 #### Talks etc.
 
