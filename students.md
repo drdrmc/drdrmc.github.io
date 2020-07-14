@@ -4,6 +4,10 @@ title: Projects
 permalink: /students
 ---
 
+### Bluetooth dosimeter - COVID 19 topical!
+
+Contact tracing is a contentious issue and fraught with technical problems. However, a simple "bluetoogh dosimeter" which records unqiue bluetooth devices you have seen and when (after discarding your own, housemates and neighbours!) is an index of how much social contact you may have had. If we presented this to people and showed them the times of day etc they were in busy places, perhaps even augmented with their locaiton data, this might form the basis for behaviour change to reduce exposure, e.g. avoiding busy shopping or travel times. As with the COVID tracing on iPhone and Android, if attempting to do this bluetooth tracking in an app on a phone it would need to run all the time, or be builtin by Apple and/or Google. Instead we could use a simple arduino (like) device which could be always on in your pocket and simply download the data once a day (when plugged into recharge) to a platform for visualization. We can supply the hardware if anyone is interested in building the visualization, possibly linking to location data and perhaps even running a few trials.
+
 ### Back to the future 1. - Can we fix the email reading experience
 
 Develop a set of text processing tools that would allow email threads simply to be presented more akin to social media conversations, eliding all the indented repeated nonsense, legal disclaimers, email headers and other fluff that generally makes reading it more tedious than it needs to be. This project could focus on really doing a knock out job on the text processing or include more UI experience around the overall interface. Personally, I don't get why any of the major companies have not done this yet! 
