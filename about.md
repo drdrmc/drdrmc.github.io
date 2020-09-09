@@ -55,17 +55,22 @@ Nottingham I have also spent a fun year as Chief Innovation
 Officer (in residence) at the [Digital Catapult](https://www.digicatapult.org.uk/) during
 its startup phase in 2013/2014 and more recently spent a short
 sabbatical helping colleagues set up Unikernel Systems (since acquired
-by Docker). 
+by Docker). My technology work has led me into policy matters and I served on the 
+Furman panel looking at digital competition that resulted in the
+[UK HM Treasury](https://www.gov.uk/government/organisations/hm-treasury) report 
+[Unlocking Digital Competition](https://www.gov.uk/government/publications/unlocking-digital-competition-report-of-the-digital-competition-expert-panel)
+which seems to have added to the avalanche 
+of activities around regulating platforms.
 
 My research expertise is in ubiquitous computing, computer
 architecture, networking, distributed systems and operating systems,
 while my interdisciplinary interests include issues of ethics,
-identity, privacy, information policy, legislation and economics
-within a  digital society.
+identity, privacy, information policy, regulation and economics
+within a digital society.
 
 I am a Fellow of the [British Computer Society](http://www.bcs.org/)
-and member of the [UKCRC](http://www.ukcrc.org.uk/) executive
-committee, a computing research expert panel of the IET and BCS. 
+and member of the [UKCRC](http://www.ukcrc.org.uk/), 
+a computing research expert panel of the IET and BCS. 
 
 ### Publications etc.
 
