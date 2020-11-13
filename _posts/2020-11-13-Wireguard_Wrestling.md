@@ -5,8 +5,8 @@ author: Mac
 ---
 
 I'd been dipping in and out of trying to get a VPN setup so that my phone is always connected into my home to talk to home IoT devices, 
-(like a Philips Hue), my NAS box and in home cameras.
-With regards to IoT in the home devices I fundamentlaly object to being forced 
+(like a Philips Hue), my NAS box, in home cameras, etc.
+With regards to IoT devices in the home I fundamentaly object to being forced 
 to use a cloud service to essentialy solve the end to end networking problem that the extensive use of NAT in IPv4 has given us.
 This is both based on the
 architectural principle that it's stoopid, and on privacy and cybersecurity grounds - these systems somtimes, but not always, 
@@ -25,13 +25,17 @@ phone and your home network, and with both the out-of-band nature of the Wiregua
 <p>
  This <a href="https://barrowclift.me/post/wireguard-server-on-macos">excellent article</a>
 by Marc Barrowclift finally clarified WireGuard configuration  for me. Indeed I realised that for my setup,
-it was even easier than his confguration, especially as I have a home router capable of doing err,
-actual routing  - Unity Ubiquiti gear - and while the resultant forwarding loop is not optimal, it'll do
- until the TANSEC project gets it all built in an <a href="https://openwrt.org">OpenWRT</a> router. 
+it was even simpler than his configuration. However, I do end up with a non-optimal forwarding loop as most of 
+the IoT devices we are talking about can only ever send things not on the local network to the default router assigned 
+to them by the DHCP, and even if you could add static routes or indeed fire up routing demons in some places (like the NAS),
+who could be bothered for such marginal bandwidth efficiency gains. Anyway as I have 
+a Unity Ubiquiti router (and switches and WiFi), 
+which does actual, err, routing, so I can easily deal the routing problem there. It'll do
+ until the TANSEC project gets it all built in an <a href="https://openwrt.org">OpenWRT</a> router.
 </p>
 
 <img align="left" src="/images/Slide2.png" alt="network" width="500"  />
-<p>So basic setup: phone on 4G (or coffee shop WiFi) running standard Wireguard client,
+<p>So the basic setup: phone on 4G (or coffee shop WiFi) running standard Wireguard client,
 home router configured to port forward default Wireguard port to internal iMac
 running WireGuard "server" (from cmd line, not client in App Store), internal iMac set to IP forward,
 router configured to forward WireGuard IP subnet back to iMac, some suitable dynamic DNS provider 
@@ -43,9 +47,9 @@ route to the subnet of its interface address; well whether I just missed this or
 changed I dunno, but the client configuration of:
 </p>
 
-> Allowed IPs 192.168.32.0/20,192.168.16/0/24
+    Allowed IPs 192.168.32.0/20,192.168.16/0/24
 
-adds the needed routing to the iPhone.
+adds the needed routing to the iPhone to forward the packets for the Home LAN over the WireGuard tunnel.
 
 So here are the simplified (from Marc's setup) configurations you need, home.conf:
 
@@ -70,7 +74,7 @@ iPhone Conf:
     PEER
     Public key aaduaiudnrinsrehifaurjfboasflsajfa;lj;asdfl
     Endpoint yourhost.dynu.net:51820
-    Allowed IPs 192.168.32.0/20,192.168.16/0/24
+    Allowed IPs 192.168.32.0/20,192.168.16.0/24
     
     ON-DEMAND ACTIVATION
     On demand Cellular only
