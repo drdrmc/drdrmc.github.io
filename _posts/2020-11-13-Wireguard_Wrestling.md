@@ -47,7 +47,8 @@ route to the subnet of its interface address; well whether I just missed this or
 changed I dunno, but the client configuration of:
 </p>
 
-    Allowed IPs 192.168.32.0/20,192.168.16/0/24
+
+    Allowed IPs 192.168.32.0/20,192.168.16.0/24
 
 adds the needed routing to the iPhone to forward the packets for the Home LAN over the WireGuard tunnel.
 
