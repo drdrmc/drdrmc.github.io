@@ -53,7 +53,7 @@ changed I dunno, but the client configuration of:
 adds the needed routing to the iPhone to forward the packets for the Home LAN over the WireGuard tunnel.
 
 So here are the simplified (from Marc's setup) configurations you need. His "postup.sh" and "postdown.sh"
-are not needed as we are not doign NAT, and the "server" configuration is simple, here "home.conf":
+are not needed as we are not doing NAT, and the "server" configuration is simple, here "home.conf":
 
     [Interface]
     Address = 192.168.16.1/24
