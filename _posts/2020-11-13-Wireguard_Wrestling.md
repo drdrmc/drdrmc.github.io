@@ -82,9 +82,9 @@ I've seen Unity Ubiquiti community posts about installing WireGuard from the com
 there are only so many things I have time to mess with and getting into commandline stuff on
 the router is not one of them.
 
-I note that some coffice shops IP address assignment in 192.168 range might clash,
+I note that some coffee shops IP address assignment in 192.168 range might clash,
 but they are nearly all 192.168.0.0/24 or 192.168.1.0/24, so if I do
-find myself on a such a network and in dire need of home access, I'll just dropn back to 4G.
+find myself on a such a network and in dire need of home access, I'll just drop back to 4G.
 
 Onward and upwards, IPv6 next.
 
