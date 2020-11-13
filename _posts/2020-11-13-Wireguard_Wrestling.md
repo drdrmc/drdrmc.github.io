@@ -52,7 +52,8 @@ changed I dunno, but the client configuration of:
 
 adds the needed routing to the iPhone to forward the packets for the Home LAN over the WireGuard tunnel.
 
-So here are the simplified (from Marc's setup) configurations you need, home.conf:
+So here are the simplified (from Marc's setup) configurations you need. His "postup.sh" and "postdowdn.sh"
+are not needed as we are not doign NAT, and the "server" configuration is simple, here "home.conf":
 
     [Interface]
     Address = 192.168.16.1/24
@@ -65,7 +66,7 @@ So here are the simplified (from Marc's setup) configurations you need, home.con
     PublicKey = dsdkasjfa;sf;sfkdfa;kljdfklajdflajsdfkljaskf  
     AllowedIPs = 192.168.16.2/32  
 
-iPhone Conf:
+while iPhone app confuguration:
 
     INTERFACE
     Name Home
@@ -80,6 +81,7 @@ iPhone Conf:
     ON-DEMAND ACTIVATION
     On demand Cellular only
 
+To fire it up automatically on your Mac, you need to follow Marc's instructions. 
 In all it's working well, with the minor indigestion of the forwarding loop; and it's not 
 really a general solution given many domestic routers would not let you add a static route.
 
