@@ -4,8 +4,8 @@ title: Wireguard and MacOS
 author: Mac
 ---
 
-I'd been dipping in and out of trying to get a VPN setup so that my phone is always connected into my home to talk to home IoT devices, 
-(like a Philips Hue), my NAS box, in home cameras, etc.
+I'd been dipping in and out of trying to get a VPN setup so that my phone is always connected into my home to talk to home IoT devices 
+(e.g. used here a Philips Hue), my NAS box, in home cameras, etc.
 With regards to IoT devices in the home I fundamentaly object to being forced 
 to use a cloud service to essentialy solve the end to end networking problem that the extensive use of NAT in IPv4 has given us.
 This is both based on the
@@ -30,7 +30,7 @@ the IoT devices we are talking about can only ever send things not on the local 
 to them by the DHCP, and even if you could add static routes or indeed fire up routing demons in some places (like the NAS),
 who could be bothered for such marginal bandwidth efficiency gains. Anyway as I have 
 a Unity Ubiquiti router (and switches and WiFi), 
-which does actual, err, routing, so I can easily deal the routing problem there. It'll do
+which does actual, err, routing, I can easily deal the routing problem there. It'll do
  until the TANSEC project gets it all built in an <a href="https://openwrt.org">OpenWRT</a> router.
 </p>
 
@@ -52,7 +52,7 @@ changed I dunno, but the client configuration of:
 
 adds the needed routing to the iPhone to forward the packets for the Home LAN over the WireGuard tunnel.
 
-So here are the simplified (from Marc's setup) configurations you need. His "postup.sh" and "postdowdn.sh"
+So here are the simplified (from Marc's setup) configurations you need. His "postup.sh" and "postdown.sh"
 are not needed as we are not doign NAT, and the "server" configuration is simple, here "home.conf":
 
     [Interface]
