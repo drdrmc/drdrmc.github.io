@@ -27,7 +27,7 @@ phone and your home network, and with both the out-of-band nature of the Wiregua
 by Marc Barrowclift finally clarified WireGuard configuration  for me. Indeed I realised that for my setup,
 it was even easier than his confguration, especially as I have a home router capable of doing err,
 actual routing  - Unity Ubiquiti gear - and while the resultant forwarding loop is not optimal, it'll do
-until the TANSEC project gets it all built in an [OpenWRT](https://openwrt.org) router. 
+ until the TANSEC project gets it all built in an <a href="https://openwrt.org">OpenWRT</a> router. 
 </p>
 
 <img align="left" src="/images/Slide2.png" alt="network" width="500"  />
