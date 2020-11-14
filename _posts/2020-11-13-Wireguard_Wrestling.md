@@ -14,7 +14,8 @@ architectural principle that it's stoopid, and on privacy and cybersecurity grou
 use TLS for the communications with the server, but rarely do end to end encryption, so the data is exposed on the server, 
 and hacking into the server permits subversion of all devices. But even end to end encrypted systems could suffer a DDOS,
 which of course companies can pay to defend against by handing over hard earned income to Cloudflare.
-For companies this data then may fall under GDPR and bring with it legal obligations - often not met it has to be said.
+For companies this data then may fall under GDPR and bring with it legal obligations
+(and handing over hard enared income to lawyers) - often not met it has to be said.
 Finally of course, the myth is that all data is valuable, so some fools think they will be able to montise when
 I switch my lights on and off - yeah maybe to burglars looking for times of no occupancy.
 
@@ -96,10 +97,26 @@ there are only so many things I have time to mess with and getting into commandl
 the router is not one of them.
 
 I note that some coffee shops IP address assignment in 192.168 range might clash,
-but they are nearly all 192.168.0.0/24 or 192.168.1.0/24, so if I do
-find myself on a such a network and in dire need of home access, I'll just drop back to 4G.
+but they are nearly all 192.168.0.0/24 or 192.168.1.0/24, so we will most likely avoid them.
+If I do
+find myself on a such a network with a collision and in dire need of home access,
+I'll just drop back to 4G.
 
-Onward and upwards, IPv6 next.
+[@mor1](https://github.com/mor1) suggested:
+
+> 172.16/12 "FTW" ;)
+
+> or you could take the \<mirth\> and use 100.64/10
+
+but I'm pretty sure he was trolling me at this point; although it is 
+what [Tailscale are using](https://tailscale.com/kb/1033/ip-and-dns-addresses).
+In all honesty another "too much hassle to be bothered" for the payback.
+
+The mission is that one day all routers will as standard come with a standardised VPN and the whole
+domestic IoT world can shift from corporate surveillance model to a fundamentlaly more private and secure
+solution.
+
+Anyway, onward and upwards, IPv6 next. Not that many IoT devcies support it, but because it is there.
 
 
 
