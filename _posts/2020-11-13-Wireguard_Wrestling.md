@@ -5,12 +5,18 @@ author: Mac
 ---
 
 I'd been dipping in and out of trying to get a VPN setup so that my phone is always connected into my home to talk to home IoT devices 
-(e.g. used here a Philips Hue), my NAS box, in home cameras, etc.
+(here using a a Philips Hue as an example), my NAS box, in home cameras, etc.
 With regards to IoT devices in the home I fundamentaly object to being forced 
 to use a cloud service to essentialy solve the end to end networking problem that the extensive use of NAT in IPv4 has given us.
+
 This is both based on the
-architectural principle that it's stoopid, and on privacy and cybersecurity grounds - these systems somtimes, but not always, 
-use TLS for the communications with the server, but rarely do end to end encryption, so the server is a weak spot.
+architectural principle that it's stoopid, and on privacy and cybersecurity grounds. These systems somtimes, but not always, 
+use TLS for the communications with the server, but rarely do end to end encryption, so the data is exposed on the server, 
+and hacking into the server permits subversion of all devices. But even end to end encrypted systems could suffer a DDOS,
+which of course companies can pay to defend against by handing over hard earned income to Cloudflare.
+For companies this data then may fall under GDPR and bring with it legal obligations - often not met it has to be said.
+Finally of course, the myth is that all data is valuable, so some fools think they will be able to montise when
+I switch my lights on and off - yeah maybe to burglars looking for times of no occupancy.
 
 <img align="right" src="/images/Slide1.png" alt="network" width="500"  />
 <p>
@@ -27,7 +33,7 @@ phone and your home network, and with both the out-of-band nature of the Wiregua
 by Marc Barrowclift finally clarified WireGuard configuration  for me. Indeed I realised that for my setup,
 it was even simpler than his configuration. However, I do end up with a non-optimal forwarding loop as most of 
 the IoT devices we are talking about can only ever send things not on the local network to the default router assigned 
-to them by the DHCP, and even if you could add static routes or indeed fire up routing demons in some places (like the NAS),
+to them by the DHCP. Even if you could add static routes or indeed fire up routing demons in some places (like the NAS),
 who could be bothered for such marginal bandwidth efficiency gains. Anyway as I have 
 a Unity Ubiquiti router (and switches and WiFi), 
 which does actual, err, routing, I can easily deal the routing problem there. It'll do
