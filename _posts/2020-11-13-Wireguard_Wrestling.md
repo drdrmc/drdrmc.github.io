@@ -4,6 +4,12 @@ title: Wireguard and MacOS
 author: Mac
 ---
 
+Update: I've now wrangled the MacOS client to work, but it does not like having two tunnels open at 
+once (although you can bring up multiple tunnels via "Systems Preference > Network"),
+and you have to set ip forwarding by hand.
+
+---
+
 I'd been dipping in and out of trying to get a VPN setup so that my phone is always connected into my home to talk to home IoT devices 
 (here using a a Philips Hue as an example), my NAS box, in home cameras, etc.
 With regards to IoT devices in the home I fundamentaly object to being forced 
@@ -14,9 +20,11 @@ architectural principle that it's stoopid, and on privacy and cybersecurity grou
 use TLS for the communications with the server, but rarely do end to end encryption, so the data is exposed on the server, 
 and hacking into the server permits subversion of all devices. But even end to end encrypted systems could suffer a DDOS,
 which of course companies can pay to defend against by handing over hard earned income to Cloudflare.
-For companies this data then may fall under GDPR and bring with it legal obligations
-(and handing over hard enared income to lawyers) - often not met it has to be said.
-Finally of course, the myth is that all data is valuable, so some fools think they will be able to montise when
+For companies this data then may fall under GDPR and bring with it legal obligations,
+and handing over hard earned income to lawyers, although actual compliance in this space is 
+woeful.
+Finally of course, the myth is that all data is valuable, so some fools think they will be able to montise 
+the data of when
 I switch my lights on and off - yeah maybe to burglars looking for times of no occupancy.
 
 <img align="right" src="/images/Slide1.png" alt="network" width="500"  />
