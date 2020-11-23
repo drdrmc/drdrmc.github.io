@@ -124,7 +124,7 @@ The mission is that one day all routers will as standard come with a standardise
 domestic IoT world can shift from corporate surveillance model to a fundamentlaly more private and secure
 solution.
 
-Anyway, onward and upwards, IPv6 next. Not that many IoT devcies support it, but because it is there.
+Anyway, onward and upwards, IPv6 next. Not that many IoT devices support it, but because it is there.
 
 
 
