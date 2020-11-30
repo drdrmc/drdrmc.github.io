@@ -184,6 +184,8 @@ Trans. Emerging Tel. Tech. 28(1) 2017. [[DOI](http://dx.doi.org/10.1002/ett.3125
 industrial things_, Computer Law and Security Review . ISSN 0267-3649
 [[Link](http://eprints.nottingham.ac.uk/48592/)] 
 * A Crabtree, T Lodge, J Colley, C Greenhalgh, K Glover, H Haddadi, Y Amar, R Mortier, Q Li, J Moore, L Wang, P Yadav, J Zhao, A Brown, L Urquhart, D McAuley, _Building accountability into the Internet of Things: the IoT Databox model_, Journal of Reliable Intelligent Environments 4 (1), 39-55 ][DOI](https://doi.org/10.1007/s40860-018-0054-5)]
+K O'Leary, N Coulson, E Perez-Vallejos, D McAuley, Towards understanding how individuals with inflammatory bowel disease use contemporary social media platforms for health-related discourse Computers in Human Behavior, June 2020.
+
 
 #### Conference/Workshop 
 
