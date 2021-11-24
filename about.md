@@ -8,22 +8,22 @@ permalink: /about/
 <img alt="Horizon Logo" title="" align= "right" width="200px" src="/images/horizon.png" > 
 </p>
  I am Professor of Digital Economy in the
-[School of Computer Science](http://www.cs.nott.ac.uk/)
-at the [University of Nottingham](http://www.nottingham.ac.uk). I am
-Director of [Horizon](http://www.horizon.ac.uk/) an
+[School of Computer Science](https://www.cs.nott.ac.uk/)
+at the [University of Nottingham](https://www.nottingham.ac.uk). I am
+Director of [Horizon](https://www.horizon.ac.uk/) an
 interdisciplinary research institute funded through the
-[RCUK](http://www.rcuk.ac.uk/) 
-[Digital Economy programme](http://www.rcuk.ac.uk/research/xrcprogrammes/Digital/)
+[UKRI](https://www.ukri.ac.uk/) 
+[Digital Economy programme](https://epsrc.ukri.org/research/ourportfolio/themes/digitaleconomy/)
 
 [Derek McAuley (disambiguation)!](https://en.wikipedia.org/wiki/Derek_McAuley)
 
 ### Research
 
-See [this blog(!)](http://drdrmc.github.io/) and the
-[Horizon website](http://www.horizon.ac.uk/); scroll down for
+See [this blog(!)](https://drdrmc.github.io/) and the
+[Horizon website](https://www.horizon.ac.uk/); scroll down for
 publications;
-[UK research grants are here](hhttp://gtr.ukri.org/person/32EADEB5-487B-4058-9ABB-C16C18E9114F)
-and various other outputs can be found on both [Horizon website](http://www.horizon.ac.uk/) and the [Gateway to Research](http://gtr.ukri.org).
+[UK research grants are here](https://gtr.ukri.org/person/32EADEB5-487B-4058-9ABB-C16C18E9114F)
+and various other outputs can be found on both [Horizon website](https://www.horizon.ac.uk/) and the [Gateway to Research](https://gtr.ukri.org).
 
 ### Contact:
 
@@ -35,7 +35,7 @@ United Kingdom <br />
 
 tweet: @drdrmc <br />
 email: derek.mcauley (at) nottingham.ac.uk <br />
-phone: +44 115 846 8381 <br />
+
 
 ### More Details
 
