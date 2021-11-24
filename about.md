@@ -76,7 +76,7 @@ a computing research expert panel of the IET and BCS.
 
 I aim to keep this page up to date, but then I do that mostly by looking at
 what GOOG and MSFT have found out about me! So:
-* [What Google Scholar has found](https://scholar.google.com/citations?user=K2UHT3AAAAA).
+* [What Google Scholar has found](https://scholar.google.com/scholar?hl=en&q=derek+mcauley) - this phrased as a search as if I [link directly to my profile](https://scholar.google.com/citations?user=K2UHT3AAAAAJ&hl=en&oi=ao) Google wants to track you by login (well it does me!).
 * [What Microsoft Academic says](https://academic.microsoft.com/author/2038094089/).
 
 #### Books
