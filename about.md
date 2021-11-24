@@ -40,17 +40,17 @@ phone: +44 115 846 8381 <br />
 ### More Details
 
 After a PhD and lectureship in the
-[Computer Laboratory](http://www.cl.cam.ac.uk) at the [University of 
-Cambridge](http://www.cam.ac.uk) I moved to a chair in
-[Department of Computer Science](http://www.dcs.gla.ac.uk) at the 
-[University of Glasgow](http://www.dcs.gla.ac.uk). I returned to
+[Computer Laboratory](https://www.cl.cam.ac.uk) at the [University of 
+Cambridge](https://www.cam.ac.uk) I moved to a chair in
+[Department of Computer Science](https://www.dcs.gla.ac.uk) at the 
+[University of Glasgow](https://www.dcs.gla.ac.uk). I returned to
 Cambridge in July 1997, to help found the Cambridge Microsoft Research facility, moving on to found
 the Intel lablet in Cambridge in July 2002. A year working in Oregon
 for Intel from August 2005 until August 2006, was an interesting
 cultural diversion and improved the skiing enormously, but alas during
 this sojourn the Cambridge lablet was shut. Before joining Nottingham
 in 2009 I enjoyed the cut and thrust of two startups, XenSource (now
-Citrix) and [Netronome](http://www.netronome.com/). During my time at
+Citrix) and [Netronome](https://www.netronome.com/). During my time at
 Nottingham I have also spent a fun year as Chief Innovation
 Officer (in residence) at the [Digital Catapult](https://www.digicatapult.org.uk/) during
 its startup phase in 2013/2014 and more recently spent a short
@@ -68,16 +68,16 @@ while my interdisciplinary interests include issues of ethics,
 identity, privacy, information policy, regulation and economics
 within a digital society.
 
-I am a Fellow of the [British Computer Society](http://www.bcs.org/)
-and member of the [UKCRC](http://www.ukcrc.org.uk/), 
+I am a Fellow of the [British Computer Society](https://www.bcs.org/)
+and member of the [UKCRC](https://www.ukcrc.org.uk/), 
 a computing research expert panel of the IET and BCS. 
 
 ### Publications etc.
 
 I aim to keep this page up to date, but then I do that mostly by looking at
 what GOOG and MSFT have found out about me! So:
-* [What Google Scholar has found](http://scholar.google.com/citations?user=K2UHT3AAAAA).
-* [What Microsoft Academic says](http://academic.research.microsoft.com/Author/36385).
+* [What Google Scholar has found](https://scholar.google.com/citations?user=K2UHT3AAAAA).
+* [What Microsoft Academic says](https://academic.research.microsoft.com/Author/36385).
 
 #### Books
 
@@ -116,7 +116,7 @@ September 1996. [[PDF](papers/1997jsac.pdf])]
   Society. 1996. 
 * D. R. McAuley and I. M. Leslie, The Desk Area Network,
   Electron. Commun. Eng. J. -- June 1997 -- Volume 9, Issue 3,
-  p.143–152, [[DOI](http://dx.doi.org/10.1049/ecej:19970309),
+  p.143–152, [[DOI](https://dx.doi.org/10.1049/ecej:19970309),
   [PDF](/papers/1997-dan-jece.pdf))]
 * Peter Key and Derek McAuley, _Differential pricing and QoS in
   networks: where flow-control meets game theory_. IEE Proceedings --
@@ -128,7 +128,7 @@ September 1996. [[PDF](papers/1997jsac.pdf])]
 * A. W. Moore, L. B. James, M. Glick, A. Wonfor, R. G. Plumb,
   I. H. White, D. McAuley, R. V. Penty, _Optical network packet error
   rate due to physical layer coding_, Journal of Lightwave Technology,
-  Oct 2005. [[DOI](http://dx.doi.org/10.1109/JLT.2005.856275),
+  Oct 2005. [[DOI](https://dx.doi.org/10.1109/JLT.2005.856275),
   [PDF](/papers/2005-jlt-oerr.pdf)] 
 * T. Lin, K.A. Williams, R.V. Penty, I.H. White, M. Glick, D. McAuley,
   _Performance and Scalability of a Single Stage SOA Switch for
@@ -142,11 +142,11 @@ September 1996. [[PDF](papers/1997jsac.pdf])]
 * H. Haddadi, R. Mortier, S. Hand, I. Brown, E. Yoneki, D. McAuley,
   J. Crowcroft, _Privacy Analytics_, ACM Computer Communication Review
   (CCR), 42(2), April 2012, Editorial
-  [[DOI](http://dx.doi.org/10.1145/2185376.2185390). [PDF](/papers/ccred12-privalytics.pdf)] 
+  [[DOI](https://dx.doi.org/10.1145/2185376.2185390). [PDF](/papers/ccred12-privalytics.pdf)] 
 * M Radenkovic, A Benslimane, D McAuley,<i> Reputation Aware
   Obfuscation for Mobile Opportunistic Networks</i>, IEEE Transactions
   on Parallel and Distributed Systems (99), Oct 2013
-  [[DOI](http://10.0.4.85/TPDS.2013.265)] 
+  [[DOI](https://10.0.4.85/TPDS.2013.265)] 
 * Ben Bedwell, Caroline Leygue, Murray Goulden, Derek McAuley, James
   Colley, Eamonn Ferguson, Nick Banks, Alexa Spence, _Apportioning
   energy consumption in the workplace: a review of issues in using
@@ -162,7 +162,7 @@ September 1996. [[PDF](papers/1997jsac.pdf])]
 * RK Perrons, D McAuley, _The case for “n «all”: Why the Big Data
   revolution will probably happen differently in the mining
   sector_, Resources Policy 46, 234-238
-  [[DOI](http://dx.doi.org/10.1016/j.resourpol.2015.10.007)] 
+  [[DOI](https://dx.doi.org/10.1016/j.resourpol.2015.10.007)] 
 * H. Schnädelbachh, Xu Sun, G. Kefalidou, T. Coughlan, R. Meese,
   J. Norris, D. Mcauley, _Creativity Greenhouse: At-a-distance
   collaboration and competition over research funding_ International
@@ -182,7 +182,7 @@ Trans. Emerging Tel. Tech. 28(1) 2017. [[DOI](http://dx.doi.org/10.1002/ett.3125
   [[DOI](https://doi.org/10.1007/s00779-017-1069-2)]
 * Urquhart, L. and McAuley, D., _Avoiding the internet of insecure
 industrial things_, Computer Law and Security Review . ISSN 0267-3649
-[[Link](http://eprints.nottingham.ac.uk/48592/)] 
+[[Link](https://eprints.nottingham.ac.uk/48592/)] 
 * A Crabtree, T Lodge, J Colley, C Greenhalgh, K Glover, H Haddadi, Y Amar, R Mortier, Q Li, J Moore, L Wang, P Yadav, J Zhao, A Brown, L Urquhart, D McAuley, _Building accountability into the Internet of Things: the IoT Databox model_, Journal of Reliable Intelligent Environments 4 (1), 39-55 ][DOI](https://doi.org/10.1007/s40860-018-0054-5)]
 K O'Leary, N Coulson, E Perez-Vallejos, D McAuley, Towards understanding how individuals with inflammatory bowel disease use contemporary social media platforms for health-related discourse Computers in Human Behavior, June 2020.
 
@@ -291,7 +291,7 @@ K O'Leary, N Coulson, E Perez-Vallejos, D McAuley, Towards understanding how ind
   (HotCloud '10),   June 2010. [[PDF](/papers/2010-hotcloud-lamp.pdf)]  
 * D.McAuley, R. Mortier, and J. Goulding, _The Dataware Manifesto_,
   COMSNETS 2011, Bangalore,
-  Jan 2011. [[DOI](http://dx.doi.org/10.1109/COMSNETS.2011.5716491),
+  Jan 2011. [[DOI](https://dx.doi.org/10.1109/COMSNETS.2011.5716491),
   [PDF](/papers/comsnets11-dataware.pdf)]  
 * A. Durrant, D. Rowland, D. Kirk, S. Benford, J. Fischer, D. McAuley,
   _Automics: Souvenir Generating Photoware for Theme Parks_, CHI 2011,
@@ -327,26 +327,26 @@ K O'Leary, N Coulson, E Perez-Vallejos, D McAuley, Towards understanding how ind
 * J. Blum, M. Flintham, R. Jacobs, V. Shipp, G. Kefalidou, M. Brown,
   D. McAuley, _The timestreams platform: artist mediated participatory
   sensing for environmental discourse_, Proceedings of UBICOMP
-  '13. [[DOI](http://dx.doi.org/10.1145/2493432.2493479"),
+  '13. [[DOI](https://dx.doi.org/10.1145/2493432.2493479"),
   [PDF](/papers/ubicomp2013-timestreams-camera.pdf)] 
 * Milena Radenkovic, Heidi Howard, Jon Crowcroft, Murray Goulden,
   Christian Greiffenhagen, Derek McAuley, Richard Mortier,
   _Providing security for wireless community networks_, ACM
   MobiCom workshop,  Sep 2013.
-  [[DOI](http://dx.doi.org/10.1145/2502880.2502890)] 
+  [[DOI](https://dx.doi.org/10.1145/2502880.2502890)] 
 * Carletti, L., McAuley, D., Price, D., & Giannachi, G. , _Digital
   Humanities and Crowdsourcing: an Exploration_. Selected papers from
   Museum and the Web 2013.
-  [[LINK](http://mw2013.museumsandtheweb.com/paper/digital-humanities-and-crowdsourcing-an-exploration-4/)] 
+  [[LINK](https://mw2013.museumsandtheweb.com/paper/digital-humanities-and-crowdsourcing-an-exploration-4/)] 
 * Saeed M Alqahtani, Sultan Alanazi, Derek McAuley, _The Role of
   Enterprise Social Networking (ESN) on Business: Five Effective
   Recommendations for ESN_, Proc. Conf. Dependability and Complex
   Systems  DepCoS-RELCOMEX, 2014.
-  [[DOI](http://dx.doi.org/10.1007/978-3-319-07013-1_3)] 
+  [[DOI](https://dx.doi.org/10.1007/978-3-319-07013-1_3)] 
 * Svenja Adolphs & Derek McAuley, _Trajectories of identity in social
   media_, Sociolinguistics Symposium 20, June 2014, Jyväskylä,
   Finland. [[PDF](201406sociolinguistics.pdf)] 
-* Coughlan, T., Brown, M., McAuley D., Baurley S., Tsai, A., Koppe, T., Elliott, M., Green, S. &amp; Martin, J. <i>Living with the User: Design Drama for Dementia Care through Responsive Scripted Experiences in the Home</i>.  UbiComp '14, Sep 13-17 2014, Seattle, WA, USA. [[PDF](http://eprints.nottingham.ac.uk/3042/1/UbiComp-SoUP-paper-camera-ready.pdf)]
+* Coughlan, T., Brown, M., McAuley D., Baurley S., Tsai, A., Koppe, T., Elliott, M., Green, S. &amp; Martin, J. <i>Living with the User: Design Drama for Dementia Care through Responsive Scripted Experiences in the Home</i>.  UbiComp '14, Sep 13-17 2014, Seattle, WA, USA. [[PDF](https://eprints.nottingham.ac.uk/3042/1/UbiComp-SoUP-paper-camera-ready.pdf)]
 * SM Alqahtani, S Alanazi, D McAuley, _The Role of Enterprise Social
 Networking (ESN) on Business: Five Effective Recommendations for ESN_,
 Proceedings of the Ninth International Conference on Dependability 
@@ -408,7 +408,7 @@ ACM CHI 2015.
 * Haralabopoulos, G., Wagner, C., McAuley, C., Simperl., 
 _A multivalued emotion lexicon created and evaluated by the crowd_,
 2018 Fifth International Conference on Social Networks Analysis, 
-Management and Security (SNAMS) [[pdf](http://eprints.nottingham.ac.uk/56075/1/A_multi_valued_emotion_lexicon_created_and_evaluated_by_the_crowd.pdf)]
+Management and Security (SNAMS) [[pdf](https://eprints.nottingham.ac.uk/56075/1/A_multi_valued_emotion_lexicon_created_and_evaluated_by_the_crowd.pdf)]
 * Haralabopoulos, G., Wagner, C., McAuley, D., Anagnostopoulos, I., 
 _Paid Crowdsourcing, Low Income Contributors, and Subjectivity_
 IFIP International Conference on Artificial Intelligence Applications and Innovations, 2019.
@@ -434,7 +434,7 @@ IFIP International Conference on Artificial Intelligence Applications and Innova
 * Evidence at UK Parliament Science and Technology select committee on
 _Social media and real time analytics_, June 2014
 [[Written evidence](/_posts/2014-04-02-ethics-and-social-media.html),
-[video](http://www.parliamentlive.tv/Main/Player.aspx?meetingId=15596)
+[video](https://www.parliamentlive.tv/Main/Player.aspx?meetingId=15596)
 and [transcript](http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/science-and-technology-committee/social-media-data-and-real-time-analytics/oral/10965.html)]
 * _IoT_, talk at EPSRC/FCO funded UK / Japan IoT workshop
 [[Slides](/papers/2-170906Japan.pdf)]
@@ -485,12 +485,12 @@ and [transcript](http://data.parliament.uk/writtenevidence/committeeevidence.svc
   Magazine 2005. [[PDF](/papers/2005-moore2005chasing.pdf)] 
 * D.McAuley, P. Barham, P. Key and K. Laevans, _Congestion avoidance
   within aggregate channels_. US Patent
-  7,023,800, 2006. [[Link](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=48&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=mcauley.INNM.&amp;OS=IN/mcauley&amp;RS=IN/mcauley)]
+  7,023,800, 2006. [[Link](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=48&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=mcauley.INNM.&amp;OS=IN/mcauley&amp;RS=IN/mcauley)]
 * D. McAuley and G. Stark, Atomic Compare and Write Memory. US
-  Patent 2009. [[Link](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=/netahtml/PTO/srchnum.html&amp;r=1&amp;f=G&amp;l=50&amp;s1=20110093663.PGNR)]
+  Patent 2009. [[Link](https://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=/netahtml/PTO/srchnum.html&amp;r=1&amp;f=G&amp;l=50&amp;s1=20110093663.PGNR)]
 * D.McAuley, P. Barham, P. Key and K. Laevans, _Congestion avoidance
   within aggregate channels_. US Patent
-  7,672,234, 2010. [[Link](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=27&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=mcauley.INNM.&amp;OS=IN/mcauley&amp;RS=IN/mcauley)] 
+  7,672,234, 2010. [[Link](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=27&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=mcauley.INNM.&amp;OS=IN/mcauley&amp;RS=IN/mcauley)] 
 * * D. McAuley, _Future of Technology_, Cheltenham Science Festival
   June 2011 [[PDF](/papers/20110607scifest.pdf)]
 * H. Haddadi, R. Mortier, D. McAuley, J. Crowcroft, _Human-data interaction_, CUCL tech report 837, June 2013. [[PDF]()]
