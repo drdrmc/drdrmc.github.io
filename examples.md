@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Projects
+title: Example projects
 permalink: /examples
 ---
-
-## Example project suggestions:
 
 ### The Carbon Budget
 
