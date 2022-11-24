@@ -33,7 +33,7 @@ Nottingham <br />
 NG7 2TU <br />
 United Kingdom <br />
 
-tweet: @drdrmc <br />
+<a rel="me" href="https://mastodon.me.uk/@drdrmc">Mastodon:</a> @drdrmc@mastodon.me.uk <br />
 email: derek.mcauley (at) nottingham.ac.uk <br />
 
 
@@ -52,7 +52,7 @@ this sojourn the Cambridge lablet was shut. Before joining Nottingham
 in 2009 I enjoyed the cut and thrust of two startups, XenSource (now
 Citrix) and [Netronome](https://www.netronome.com/). During my time at
 Nottingham I have also spent a fun year as Chief Innovation
-Officer (in residence) at the [Digital Catapult](https://www.digicatapult.org.uk/) during
+Officer at the [Digital Catapult](https://www.digicatapult.org.uk/) during
 its startup phase in 2013/2014 and more recently spent a short
 sabbatical helping colleagues set up Unikernel Systems (since acquired
 by Docker). My technology work has led me into policy matters and I served on the 
@@ -68,7 +68,7 @@ while my interdisciplinary interests include issues of ethics,
 identity, privacy, information policy, regulation and economics
 within a digital society.
 
-I am a Fellow of the [British Computer Society](https://www.bcs.org/)
+I am a Fellow of the [Royal Academy of Engineering](https://raeng.org.uk) and [British Computer Society](https://www.bcs.org/)
 and member of the [UKCRC](https://www.ukcrc.org.uk/), 
 a computing research expert panel of the IET and BCS. 
 
