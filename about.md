@@ -8,16 +8,16 @@ permalink: /about/
 <img alt="Horizon Logo" title="" align= "right" width="200px" src="/images/horizon.png" > 
 </p>
 
-During January to June 2023 I am on sabbatical. During this time management of various things falls to others:
+During January to June 2023 I am on sabbatical. During this time, management of various activities is being covered by colleagues, so please contact them:
 
 | What | Who | Email |
 |---|---|---|
 |	Horizon         | Prof. Boriana Koleva | boriana.koleva at nottingham.ac.uk |
-|	TAS Hub    @UoN | Prof. Joel Fischer | joel.fischer at nottingham.ac.uk |
+|	TAS Hub Nottingham | Prof. Joel Fischer | joel.fischer at nottingham.ac.uk |
 |	TAS Hub Director  | Prof. Gopal Ramchurn | sdr1 at soton.ac.uk |
 |	Anything urgent | Lynn Rees | lynn.rees at nottingham.ac.uk |
 
-In general myy responses during this time will be slow.
+In general my responses will be slow.
 
  I am Professor of Digital Economy in the
 [School of Computer Science](https://www.cs.nott.ac.uk/)
