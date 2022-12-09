@@ -16,6 +16,8 @@ During January to June 2023 I am on sabbatical. During this time, management of 
 
 In general my responses will be slow.
 
+<hr>
+
 <p>
 <img alt="Horizon Logo" title="" align= "right" width="200px" src="/images/horizon.png" > 
 </p>
