@@ -4,9 +4,6 @@ title:
 permalink: /about/ 
 ---
 
-<p>
-<img alt="Horizon Logo" title="" align= "right" width="200px" src="/images/horizon.png" > 
-</p>
 
 During January to June 2023 I am on sabbatical. During this time, management of various activities is being covered by colleagues, so please contact them:
 
@@ -18,6 +15,10 @@ During January to June 2023 I am on sabbatical. During this time, management of 
 |	Anything urgent | Lynn Rees | lynn.rees at nottingham.ac.uk |
 
 In general my responses will be slow.
+
+<p>
+<img alt="Horizon Logo" title="" align= "right" width="200px" src="/images/horizon.png" > 
+</p>
 
  I am Professor of Digital Economy in the
 [School of Computer Science](https://www.cs.nott.ac.uk/)
