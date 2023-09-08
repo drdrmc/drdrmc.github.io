@@ -14,7 +14,8 @@ at the [University of Nottingham](https://www.nottingham.ac.uk). I am
 Director of [Horizon](https://www.horizon.ac.uk/) an
 interdisciplinary research institute funded through the
 [UKRI](https://www.ukri.ac.uk/) 
-[Digital Economy programme](https://epsrc.ukri.org/research/ourportfolio/themes/digitaleconomy/)
+[Digital Economy programme](https://epsrc.ukri.org/research/ourportfolio/themes/digitaleconomy/).
+Major projects at this time include the [Trustworthy Autonomous Systems Hub](https://www.tas.ac.uk) and the [Responsible AI UK](https://www.rai.ac.uk) programme.
 
 [Derek McAuley (disambiguation)!](https://en.wikipedia.org/wiki/Derek_McAuley)
 
