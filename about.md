@@ -186,8 +186,16 @@ Trans. Emerging Tel. Tech. 28(1) 2017. [[DOI](http://dx.doi.org/10.1002/ett.3125
 industrial things_, Computer Law and Security Review . ISSN 0267-3649
 [[Link](https://eprints.nottingham.ac.uk/48592/)] 
 * A Crabtree, T Lodge, J Colley, C Greenhalgh, K Glover, H Haddadi, Y Amar, R Mortier, Q Li, J Moore, L Wang, P Yadav, J Zhao, A Brown, L Urquhart, D McAuley, _Building accountability into the Internet of Things: the IoT Databox model_, Journal of Reliable Intelligent Environments 4 (1), 39-55 ][DOI](https://doi.org/10.1007/s40860-018-0054-5)]
-K O'Leary, N Coulson, E Perez-Vallejos, D McAuley, Towards understanding how individuals with inflammatory bowel disease use contemporary social media platforms for health-related discourse Computers in Human Behavior, June 2020.
-
+* K O'Leary, N Coulson, E Perez-Vallejos, D McAuley, _Towards understanding how individuals with inflammatory bowel disease use contemporary social media platforms for health-related discourse_, Computers in Human Behavior, June 2020.
+* J Chen, L Edwards, L Urquhart, D McAuley, _Who is responsible for data processing in smart homes? Reconsidering joint controllership and the household exemption_, International Data Privacy Law, 2020
+E Perez, D McAuley, et al, _The impact of algorithmic decision-making processes on young people’s well-being_, Health Informatics Journal, 2021
+* S Angelopoulos, M Brown, D McAuley, Y Merali, R Mortier, D Price, _Stewardship of personal data on social networking sites_, International Journal of Information Management (56), 2021
+* S Piasecki, D McAuley, L Urquhart, _Defence against dark artefacts: Smart home cybercrimes and cy bersecurity standards_, Computer Law and Security Review, March 2021
+* MT Torres, I Anagnostopoulos, D McAuley, G Haralabopoulos, _Text data augmentations: Permutation, antonyms and negation_, Expert Systems with Applications, 2021
+* L Dowthwaite, d McAuley, et al, _Public adoption of and trust in the NHS COVID-19 contact tracing app in the United Kingdom: quantitative online survey study_, Journal of medical Internet research 23 (9), 2021 [[DOI](http://dx.doi.org/10.2196/29085)]
+* L Dowthwaite,, D McAuley, et al, _The relationship between trust and attitudes towards the COVID-19 digital contact-tracing app in the UK_, PLoS One 17 (10), 2022 [[DOI](https://doi.org/10.1371/journal.pone.0276661)]
+* S Dionysis, T Chesney, D McAuley, _Examining the influential factors of consumer purchase intentions for blockchain traceable coffee using the theory of planned behaviour_, British Food Journal 124 (12), 4304-4322 [[DOI](https://doi.org/10.1108/BFJ-05-2021-0541)]
+* S Piasecki, J Chen, D McAuley, _Putting the Right P in PIMS: Normative Challenges for Protecting Vulnerable People’s Data through Personal Information Management Systems_, European Journal of Law and Technology 13 (3), 2022 [[Link](https://ejlt.org/index.php/ejlt/article/view/885)] 
 
 #### Conference/Workshop 
 
@@ -504,4 +512,7 @@ and [transcript](http://data.parliament.uk/writtenevidence/committeeevidence.svc
      Benford, S., _ArtMaps: A Technology
      for Looking at Tate’s Collection_, Leonardo, MIT Press, 2015.
 * R Mortier, H Haddadi, T Henderson, D McAuley, Jon Crowcroft, A Crabtree _Human-data interaction_, Chap. 41 The Encyclopaedia of Human-Computer Interaction, 2nd Ed., Interaction Design Foundation
+* S Adolphs, D McAuley, S Vilar-Lluch, D Knight, E McClaughlin, E Nichele, et al _Communicating health threats: Linguistic evidence for effective public health messaging during the Covid-19 pandemic_, University of Nottingham Report 2023 [[PDF](https://nottingham-repository.worktribe.com/index.php/preview/18808324/8911_UoN_COVID_Discourse_Communicating%20Health%20Threats_A4_V10.pdf)]
+
+
 
