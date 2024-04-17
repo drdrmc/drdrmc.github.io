@@ -4,18 +4,21 @@ title:
 permalink: /about/ 
 ---
 
+I am Emeritus Professor of Digital Economy in the
+[School of Computer Science](https://www.cs.nott.ac.uk/)
+at the [University of Nottingham](https://www.nottingham.ac.uk). 
+
 <p>
 <img alt="Horizon Logo" title="" align= "right" width="200px" src="/images/horizon.png" > 
 </p>
 
- I am Professor of Digital Economy in the
-[School of Computer Science](https://www.cs.nott.ac.uk/)
-at the [University of Nottingham](https://www.nottingham.ac.uk). I am
-Director of [Horizon](https://www.horizon.ac.uk/) an
+In January 2024 I retired as Director of [Horizon](https://www.horizon.ac.uk/) an
 interdisciplinary research institute funded through the
 [UKRI](https://www.ukri.ac.uk/) 
 [Digital Economy programme](https://epsrc.ukri.org/research/ourportfolio/themes/digitaleconomy/).
-Major projects at this time include the [Trustworthy Autonomous Systems Hub](https://www.tas.ac.uk) and the [Responsible AI UK](https://www.rai.ac.uk) programme.
+However, major projects continue and include the [Trustworthy Autonomous Systems Hub](https://www.tas.ac.uk)
+and the [Responsible AI UK](https://www.rai.ac.uk) programme;
+I continue to work with these projects and various other activities in a freelance capacity.
 
 [Derek McAuley (disambiguation)!](https://en.wikipedia.org/wiki/Derek_McAuley)
 
@@ -24,20 +27,14 @@ Major projects at this time include the [Trustworthy Autonomous Systems Hub](htt
 See [this blog(!)](https://drdrmc.github.io/) and the
 [Horizon website](https://www.horizon.ac.uk/); scroll down for
 publications;
-[UK research grants are here](https://gtr.ukri.org/person/32EADEB5-487B-4058-9ABB-C16C18E9114F)
-and various other outputs can be found on both [Horizon website](https://www.horizon.ac.uk/) and the [Gateway to Research](https://gtr.ukri.org).
+[UK research grants are here](https://gtr.ukri.org/person/32EADEB5-487B-4058-9ABB-C16C18E9114F).
+(Or if, as I suspect, these "person identifiers" embedded in the URL are transient search using this https://gtr.ukri.org/search/project?term=derek+mcauley.)
+Various other outputs can be found on both [Horizon website](https://www.horizon.ac.uk/) and the [Gateway to Research](https://gtr.ukri.org).
 
-### Contact:
-
-Horizon Digital Economy Research <br />
-Triumph Road <br />
-Nottingham <br />
-NG7 2TU <br />
-United Kingdom <br />
+### Contact
 
 <a rel="me" href="https://mastodon.me.uk/@drdrmc">Mastodon:</a> @drdrmc@mastodon.me.uk <br />
 email: derek.mcauley (at) nottingham.ac.uk <br />
-
 
 ### More Details
 
@@ -53,7 +50,7 @@ cultural diversion and improved the skiing enormously, but alas during
 this sojourn the Cambridge lablet was shut. Before joining Nottingham
 in 2009 I enjoyed the cut and thrust of two startups, XenSource (now
 Citrix) and [Netronome](https://www.netronome.com/). During my time at
-Nottingham I have also spent a fun year as Chief Innovation
+Nottingham (2009-2024) I also spent a fun year as Chief Innovation
 Officer at the [Digital Catapult](https://www.digicatapult.org.uk/) during
 its startup phase in 2013/2014 and more recently spent a short
 sabbatical helping colleagues set up Unikernel Systems (since acquired
@@ -196,6 +193,7 @@ E Perez, D McAuley, et al, _The impact of algorithmic decision-making processes 
 * L Dowthwaite,, D McAuley, et al, _The relationship between trust and attitudes towards the COVID-19 digital contact-tracing app in the UK_, PLoS One 17 (10), 2022 [[DOI](https://doi.org/10.1371/journal.pone.0276661)]
 * S Dionysis, T Chesney, D McAuley, _Examining the influential factors of consumer purchase intentions for blockchain traceable coffee using the theory of planned behaviour_, British Food Journal 124 (12), 4304-4322 [[DOI](https://doi.org/10.1108/BFJ-05-2021-0541)]
 * S Piasecki, J Chen, D McAuley, _Putting the Right P in PIMS: Normative Challenges for Protecting Vulnerable People’s Data through Personal Information Management Systems_, European Journal of Law and Technology 13 (3), 2022 [[Link](https://ejlt.org/index.php/ejlt/article/view/885)] 
+
 
 #### Conference/Workshop 
 
@@ -418,11 +416,18 @@ ACM CHI 2015.
 * Haralabopoulos, G., Wagner, C., McAuley, C., Simperl., 
 _A multivalued emotion lexicon created and evaluated by the crowd_,
 2018 Fifth International Conference on Social Networks Analysis, 
-Management and Security (SNAMS) [[pdf](https://eprints.nottingham.ac.uk/56075/1/A_multi_valued_emotion_lexicon_created_and_evaluated_by_the_crowd.pdf)]
+Management and Security (SNAMS) [[PDF](https://eprints.nottingham.ac.uk/56075/1/A_multi_valued_emotion_lexicon_created_and_evaluated_by_the_crowd.pdf)]
 * Haralabopoulos, G., Wagner, C., McAuley, D., Anagnostopoulos, I., 
 _Paid Crowdsourcing, Low Income Contributors, and Subjectivity_
 IFIP International Conference on Artificial Intelligence Applications and Innovations, 2019.
-
+* Perez I., Wong J., Skalski P., Burrell S., Mortier R., McAuley D, Sutton D.,
+_Locally Differentially Private Embedding Models in Distributed Fraud Prevention Systems_
+2023 IEEE International Conference on Data Mining Workshops (ICDMW), 475-484	2023 [[DOI](10.48550/arXiv.2401.02450)]
+Focus to learn more
+* Piskopani A.M., Webb H., Hargreaves C., Dowthwaite L., Fraser Q.S., McAuley D.,
+_Trustworthy and useful tools for mobile phone extraction_
+Smart Ethics in the Digital World: Proceedings of the ETHICOMP 2024.
+  
 #### Talks etc.
 
 * _Networking with Revd Bayes_, Multiservice Networks 2001.
