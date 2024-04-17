@@ -4,7 +4,7 @@ title:
 permalink: /about/ 
 ---
 
-I am Emeritus Professor of Digital Economy in the
+I am now Emeritus Professor of Digital Economy in the
 [School of Computer Science](https://www.cs.nott.ac.uk/)
 at the [University of Nottingham](https://www.nottingham.ac.uk). 
 
