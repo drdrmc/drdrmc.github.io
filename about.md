@@ -423,7 +423,6 @@ IFIP International Conference on Artificial Intelligence Applications and Innova
 * Perez I., Wong J., Skalski P., Burrell S., Mortier R., McAuley D, Sutton D.,
 _Locally Differentially Private Embedding Models in Distributed Fraud Prevention Systems_
 2023 IEEE International Conference on Data Mining Workshops (ICDMW), 475-484	2023 [[DOI](10.48550/arXiv.2401.02450)]
-Focus to learn more
 * Piskopani A.M., Webb H., Hargreaves C., Dowthwaite L., Fraser Q.S., McAuley D.,
 _Trustworthy and useful tools for mobile phone extraction_
 Smart Ethics in the Digital World: Proceedings of the ETHICOMP 2024.
